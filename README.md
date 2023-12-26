@@ -1,19 +1,28 @@
 
-### Olá! Eu sou o Uanderson Lima 👋
+### Seja bem-vindo! Sou Uanderson Lima. 👋
+<a href="https://www.linkedin.com/in/uandersondev/" target="_blank">
+<img src="./Readme/linkedin.png"/>
+</a>
+<br></br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+![Uanderson Lima GitHub stats](https://camo.githubusercontent.com/eed855d08c22e78614f731a31fc879413c27b71d529157fc181ee5daae827a3f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d636f6465535441434b72)
 
-![Uanderson Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=UandersonLim&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UandersonLim)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que uso atualmente no meu dia a dia.
 
 <div style="display: inline_block"><br/>
-    <img alingn="center"alt= "Python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img alingn="center"alt="javascript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alingn="center"alt="Css"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alingn="center"alt="Html"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img alingn="center"alt="React"src="./Readme/react.png"/>
+<img alingn="center"alt="JS"src="./Readme/js.png"/>
+<img alingn="center"alt="Node"src="./Readme/node.png">
+<img alingn="center"alt="Html"src="./Readme/html.png">
+<img alingn="center"alt="Node"src="./Readme/css.png">
+<img alingn="center"alt="Node"src="./Readme/git.png">
+<img alingn="center"alt="Node"src="./Readme/github.png">
 </div><br/>
 
-Apaixonado por tecnologia, sempre estudando e apreendendo!😃🖥️
+Fanático por tecnologia, sempre estudando e apreendendo!😃🖥️
+
+
