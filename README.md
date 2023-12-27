@@ -21,6 +21,7 @@
 <img alingn="center"alt="Node"src="./Readme/css.png">
 <img alingn="center"alt="Node"src="./Readme/git.png">
 <img alingn="center"alt="Node"src="./Readme/github.png">
+<img alingn="center"alt="Node"src="./Readme/REST.png">
 </div><br/>
 
 Fanático por tecnologia, sempre estudando e apreendendo!😃🖥️
