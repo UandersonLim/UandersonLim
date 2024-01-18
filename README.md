@@ -14,17 +14,21 @@
 
 🚀 Desenvolvedor apaixonado por:
 <div style="display: inline_block"><br/>
-<img alingn="center"alt="React"src="./Readme/react.png"/>
-<img alingn="center"alt="JS"src="./Readme/js.png"/>
-<img alingn="center"alt="Node"src="./Readme/node.png">
-<img alingn="center"alt="Node"src="./Readme/SQL_.png">
-<img alingn="center"alt="Node"src="./Readme/MySQL.png">
-<img alingn="center"alt="Html"src="./Readme/html.png">
-<img alingn="center"alt="Node"src="./Readme/css.png">
-<img alingn="center"alt="Node"src="./Readme/git.png">
-<img alingn="center"alt="Node"src="./Readme/github.png">
-<img alingn="center"alt="Node"src="./Readme/REST.png">
+<img align="center"alt="React"src="./Readme/react.png"/>
+<img align="center"alt="JS"src="./Readme/js.png"/>
+<img align="center"alt="Node"src="./Readme/node.png">
+<img align="center"alt="Node"src="./Readme/SQL_.png">
+<img align="center"alt="Node"src="./Readme/MySQL.png">
+<img align="center"alt="Html"src="./Readme/html.png">
+<img align="center"alt="Node"src="./Readme/css.png">
+<img align="center"alt="Node"src="./Readme/git.png">
+<img align="center"alt="Node"src="./Readme/github.png">
+<img align="center"alt="Node"src="./Readme/REST.png">
 </div><br/>
+
+## Portfólio
+
+- <img align="center" src="./Readme/portfolio.png" width="20"/> - https://portifilio-ten.vercel.app/
 
 ## Contato
 
