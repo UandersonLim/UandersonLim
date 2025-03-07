@@ -32,7 +32,6 @@
 
 ## Entre em contato comigo:
 
-- 📧 E-mail: uanderson@uandersondevelop.online
 - 💼 LinkedIn: https://www.linkedin.com/in/uandersondev/
 
 Fanático por tecnologia, sempre estudando e apreendendo!😃🖥️
